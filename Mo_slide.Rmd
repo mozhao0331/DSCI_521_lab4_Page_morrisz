@@ -1,0 +1,56 @@
+---
+title: "Mo_slide"
+subtitle: "introduction"
+author: "Mo Zhao"
+institute: "MDS, UBC"
+date: "2022/10/01"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: center, middle
+
+# Basic Function
+
+### Introdaction to basic function in R
+
+---
+class: inverse, center, middle
+
+# Let's learn
+
+---
+
+# Print
+
+The function prints the arguments
+
+For example:
+```{r}
+print('hello world')
+print('12138')
+print(1 + 1)
+```
+
+---
+
+# Sum
+
+The function sum all the arguments
+
+For example:
+```{r}
+sum(1, 2)
+sum(1, 2, 3, 4, 5, 6, 7)
+```
+
+---
+
+class: center, middle
+
+# Thanks!
